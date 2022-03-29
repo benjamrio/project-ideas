@@ -1,5 +1,7 @@
 # Project Ideas 
-List of project and ideas I would like to implement or see implemented. Open and looking for collaboration. Some of these ideas might already be implemented somewhere by someone, don't hesitate to send me the links (
+List of project and ideas I would like to implement or see implemented. Open and looking for collaboration. Some of these ideas might already be implemented somewhere by someone, don't hesitate to send me the links.
+
+I am currently migrating each project ideas in issues, allowing discussion and elaboration on these ideas.
 
 ## Data Science
 ### Pandas pre-join visualiser
@@ -58,3 +60,9 @@ animations made for screens on parties light setup
 
 ## Low bandwith web
 A browser and/or a web extension allowing to reduce the bandwith (no animation, small versions of images or none, no tracking) while keeping responsivity and desired UI/UX.
+
+## Event organizer
+To help hosting dinners and parties with (close) friends. 
+* To-bring list (with suggestions for quantities depending on the number of people coming)
+* Assign people to each "buy" / group some buys and share the bill
+Never lack of anything, and equilibrate balances between particpants
